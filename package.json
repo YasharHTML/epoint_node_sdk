@@ -1,0 +1,15 @@
+{
+  "name": "epoint_node_sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "YasharHTML",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
