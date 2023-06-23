@@ -33,4 +33,4 @@ We welcome contributions from the community! If you encounter any issues, have s
 
 This SDK is released under the MIT License.
 
-### Author: Yashar Ibrahimkhalilov
+**Author: Yashar Ibrahimkhalilov**
